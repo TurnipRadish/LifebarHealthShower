@@ -1,7 +1,7 @@
 # LifebarHealthShower
 A light datapack to show mobs health with a lifebar.
 
-![test1](test1.jpg)
+![test1.jpg](https://github.com/TurnipRadish/LifebarHealthShower/blob/main/test1.png)
 
 | 项目 | 描述 | 
 | :- | :- |
