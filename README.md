@@ -16,5 +16,5 @@ A light datapack to show mobs health with a lifebar.
 | Source | original |
 | Development Environment | Minecraft(vanilla) 1.19 |
 | Recommended Version | Minecraft(vanilla) 1.19 |
-| Datapakc Type | ancillary |
+| Datapack Type | ancillary |
 | Related datapck | [UIN](https://github.com/ououn/UIN) |
